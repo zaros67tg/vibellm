@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Data and large binary files
+data/
+*.bin
+
+# Model checkpoints / Weights
+*.pt
+*.pth
+*.ckpt
+
+# OS generated files
+.DS_Store
+Thumbs.db
